@@ -1,0 +1,17 @@
+[
+    {
+        "site" : "npr",
+        "link" : "http://www.npr.org/rss/rss.php?id=1001",
+        "type" : "rss"
+    },
+    {
+        "site" : "zhihu",
+        "link" : "https://www.zhihu.com/rss",
+        "type" : "rss"
+    },
+    {
+        "site" : "msra",
+        "link" : "http://blog.sina.com.cn/rss/1286528122.xml",
+        "type" : "rss"
+    }
+]
